@@ -1,0 +1,1 @@
+"# Laravel-CKEDITOR-CKFINDER-usage" 
